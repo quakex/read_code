@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.bmp
+*.zip
+*.rar
+*.log
+*.temp
+/vendor
+
