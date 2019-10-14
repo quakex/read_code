@@ -5,5 +5,7 @@
 *.rar
 *.log
 *.temp
+*.wav
+*.mp4
 /vendor
 
